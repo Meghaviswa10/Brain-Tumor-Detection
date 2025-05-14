@@ -1,4 +1,4 @@
-# Brain Tumor Detection using CNN and Grad-CAM 🧠📊
+# Brain Tumor Detection using CNN and Grad-CAM 🧠
 
 This project detects brain tumors in MRI images using a custom Convolutional Neural Network (CNN). It uses Grad-CAM to visualize model decisions and a Streamlit app to interactively test images.
 ⚠️ You can train the model yourself using `train_model.py`
